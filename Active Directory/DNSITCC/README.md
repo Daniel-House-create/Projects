@@ -1,4 +1,4 @@
-# DNSITCC
+# DNS Activities: A-Record, DNS Flush, CNAME
 This repository deals with DNS A-Record, local DNS cache, and CNAME
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
